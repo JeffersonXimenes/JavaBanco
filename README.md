@@ -1,3 +1,3 @@
 # Java Banco
-# Exercícios Léo 
+Exercícios Léo - Neste mesmo repositório se encontra as respostas do Java Collection
 
